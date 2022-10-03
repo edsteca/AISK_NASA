@@ -16,7 +16,8 @@ The NASA Technical Report Server (NTRS) includes hundreds of thousands of items 
 Our team is composed by Edward Steven Camelo Castillo, Isabella Llinas and Christian Duarte
 
 
-<img title="a title" alt="Alt text" src="https://github.com/edsteca/AISK_NASA/blob/main/Arquitecture/aisk.png](https://images.spaceappschallenge.org/team-photos/63xE0KWoXkj3Isf1eyl3FeOdKX4=/36478/fill-591x300/)">
+<img title="a title" alt="Alt text" src="https://images.spaceappschallenge.org/team-photos/63xE0KWoXkj3Isf1eyl3FeOdKX4=/36478/fill-591x300/">
+
 
 
 <img title="a title" alt="Alt text" src="https://github.com/edsteca/AISK_NASA/blob/main/Arquitecture/aisk.png">
